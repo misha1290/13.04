@@ -1,0 +1,70 @@
+body{
+    background-image: url(https://static-cse.canva.com/blob/759807/vk1776.png);
+    background-position: 100% 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    color:aqua;
+}
+
+.Username{
+    margin-right: 300px;
+}
+
+.Password{
+    margin-right: -240px;
+    color: aqua;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+input{
+    width: 355px;
+    height: 30px;
+    background-color:rgba(182, 139, 168, 0);
+    border-color:rgba(182, 139, 168, 0);
+    border-bottom-color: aqua;
+}
+
+.card{
+    background-color:rgba(182, 139, 168, 0.623);
+    width: 450px;
+    height: 650px;
+    margin: 50px auto;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+button{
+    width: 355px;
+    height: 40px;
+    color: white;
+    border-radius: 50px;
+    border-color: aqua;
+    background: linear-gradient( to right, blue, rgb(100, 0, 130), pink);
+}
+
+.SIGN{
+    color: aqua;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.b{
+    width:270px;
+    height: 170px;
+}
+
+.vse{
+    width:300px;
+    float:left;
+}
+
+.a{
+    height:50px;
+    float:left;
+    padding: 10px;
+}
+
+img {
+    height:100%
+}
